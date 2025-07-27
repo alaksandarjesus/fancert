@@ -2,49 +2,41 @@
   {
     "title": "Big Bang Theory",
     "slug": "big-bang-theory",
-    "description": "A sitcom about a group of scientists and their social lives.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/800px-TBBT_logo.svg.png"
+    "description": "A sitcom about a group of scientists and their social lives."
   },
   {
     "title": "Friends",
     "slug": "friends",
-    "description": "A story about six friends living in New York.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Friends_season_one_cast.jpg"
+    "description": "A story about six friends living in New York."
   },
   {
     "title": "How I Met Your Mother",
     "slug": "how-i-met-your-mother",
-    "description": "Ted Mosby recounts the story of how he met the mother of his children.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/2/2b/How_I_Met_Your_Mother_Season_1_DVD_Cover.jpg"
+    "description": "Ted Mosby recounts the story of how he met the mother of his children."
   },
   {
     "title": "Stranger Things",
     "slug": "stranger-things",
-    "description": "A group of kids uncover supernatural mysteries in their town.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Stranger_Things_logo.png/250px-Stranger_Things_logo.png"
+    "description": "A group of kids uncover supernatural mysteries in their town."
   },
   {
     "title": "The Office",
     "slug": "the-office",
-    "description": "A mockumentary-style look at the day-to-day lives of office employees at Dunder Mifflin.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/TheOffice_S7_DVD.jpg/250px-TheOffice_S7_DVD.jpg"
+    "description": "A mockumentary-style look at the day-to-day lives of office employees at Dunder Mifflin."
   },
   {
     "title": "Game of Thrones",
     "slug": "game-of-thrones",
-    "description": "Noble families battle for control of the Iron Throne in a fantasy realm.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Game_of_Thrones_Season_6.jpeg/250px-Game_of_Thrones_Season_6.jpeg"
+    "description": "Noble families battle for control of the Iron Throne in a fantasy realm."
   },
   {
     "title": "Brooklyn Nine-Nine",
     "slug": "brooklyn-nine-nine",
-    "description": "A comedic look at a police precinct in Brooklyn.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Brooklyn_Nine-Nine_Logo.png/250px-Brooklyn_Nine-Nine_Logo.png"
+    "description": "A comedic look at a police precinct in Brooklyn."
   },
   {
     "title": "The Simpsons",
     "slug": "the-simpsons",
-    "description": "The satirical adventures of a dysfunctional American family.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Simpsons_FamilyPicture.png/250px-Simpsons_FamilyPicture.png"
+    "description": "The satirical adventures of a dysfunctional American family."
   }
 ]

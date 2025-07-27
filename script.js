@@ -35,25 +35,42 @@ function renderShows(shows) {
   input$.placeholder = "Search shows...";
   shows$.appendChild(input$);
   
-  shows.forEach((show) => {
+  // Array of light background colors
+  const bgColors = [
+    '#f8fafc', '#f1f5f9', '#fef9c3', '#fce7f3', '#e0f2fe', '#f0fdf4', '#f3e8ff', '#fef2f2', '#f1f7ee', '#fff7ed'
+  ];
+  shows.forEach((show, idx) => {
     const card = document.createElement("div");
     card.className = "card";
-    const img = document.createElement("img");
-    img.src = show.image;
-    img.alt = show.title;
 
+    // Title with colored background and less height
     const title = document.createElement("h2");
     title.textContent = show.title;
+    title.style.background = bgColors[idx % bgColors.length];
+    title.style.margin = "0";
+    title.style.padding = "16px";
+    title.style.textAlign = "center";
+    title.style.minHeight = "unset";
+    title.style.fontSize = "1.2rem";
+    title.style.lineHeight = "1.3";
+    title.style.borderRadius = "12px 12px 0 0";
+
+    // Card body with white background
+    const body = document.createElement("div");
+    body.style.background = "#fff";
+    body.style.borderRadius = "0 0 12px 12px";
+    body.style.padding = "16px";
+    body.style.margin = "0 8px 8px 8px";
 
     const description = document.createElement("p");
     description.textContent = show.description;
+    description.style.margin = "0";
 
-    card.appendChild(img);
+    body.appendChild(description);
     card.appendChild(title);
-    card.appendChild(description);
+    card.appendChild(body);
     cards$.appendChild(card);
-      hideAllInViewport();
-    
+    hideAllInViewport();
     card.addEventListener("click", () => {
       shows$.style.display = "none";
       selectedShow = show; // Store the selected show slug
