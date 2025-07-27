@@ -1,0 +1,247 @@
+[
+  {
+    "question": "What is the name of the father in the Simpson family?",
+    "options": ["Bart", "Homer", "Ned", "Milhouse"],
+    "correctAnswer": "Homer"
+  },
+  {
+    "question": "What instrument does Lisa Simpson play?",
+    "options": ["Piano", "Violin", "Saxophone", "Flute"],
+    "correctAnswer": "Saxophone"
+  },
+  {
+    "question": "What is the name of Bart's best friend?",
+    "options": ["Ralph", "Martin", "Milhouse", "Nelson"],
+    "correctAnswer": "Milhouse"
+  },
+  {
+    "question": "Which town do the Simpsons live in?",
+    "options": ["Shelbyville", "Springfield", "Ogdenville", "Capital City"],
+    "correctAnswer": "Springfield"
+  },
+  {
+    "question": "What is the name of Homer’s boss at the Nuclear Power Plant?",
+    "options": ["Ned Flanders", "Mayor Quimby", "Mr. Burns", "Principal Skinner"],
+    "correctAnswer": "Mr. Burns"
+  },
+  {
+    "question": "What is Marge Simpson's maiden name?",
+    "options": ["Smith", "Bouvier", "Burns", "Flanders"],
+    "correctAnswer": "Bouvier"
+  },
+  {
+    "question": "Which of the following is NOT a member of the Simpson family?",
+    "options": ["Lisa", "Bart", "Maggie", "Ralph"],
+    "correctAnswer": "Ralph"
+  },
+  {
+    "question": "What is the name of the bartender at Moe's Tavern?",
+    "options": ["Barney", "Apu", "Moe", "Carl"],
+    "correctAnswer": "Moe"
+  },
+  {
+    "question": "Which character is known for saying, 'Eat my shorts'?",
+    "options": ["Homer", "Lisa", "Bart", "Maggie"],
+    "correctAnswer": "Bart"
+  },
+  {
+    "question": "What does Mr. Burns often say?",
+    "options": ["Excellent", "Indeed", "Lovely", "Perfect"],
+    "correctAnswer": "Excellent"
+  },
+  {
+    "question": "What is Ned Flanders’ occupation?",
+    "options": ["Lawyer", "Teacher", "Pharmacist", "Store owner"],
+    "correctAnswer": "Store owner"
+  },
+  {
+    "question": "Who is the school principal at Springfield Elementary?",
+    "options": ["Mr. Burns", "Krusty", "Skinner", "Otto"],
+    "correctAnswer": "Skinner"
+  },
+  {
+    "question": "What does Maggie often suck on?",
+    "options": ["Her thumb", "Her pacifier", "A rattle", "A bottle"],
+    "correctAnswer": "Her pacifier"
+  },
+  {
+    "question": "What color is Marge’s hair?",
+    "options": ["Blue", "Green", "Red", "Black"],
+    "correctAnswer": "Blue"
+  },
+  {
+    "question": "What’s the name of the Simpsons' dog?",
+    "options": ["Snowball", "Santa’s Little Helper", "Spike", "Fido"],
+    "correctAnswer": "Santa’s Little Helper"
+  },
+  {
+    "question": "What is the name of the Simpsons' cat?",
+    "options": ["Garfield", "Felix", "Snowball", "Whiskers"],
+    "correctAnswer": "Snowball"
+  },
+  {
+    "question": "Which character always gets prank calls from Bart?",
+    "options": ["Ned", "Mr. Burns", "Moe", "Principal Skinner"],
+    "correctAnswer": "Moe"
+  },
+  {
+    "question": "What is the name of the clown on TV?",
+    "options": ["Bozo", "Binky", "Krusty", "Chuckles"],
+    "correctAnswer": "Krusty"
+  },
+  {
+    "question": "Which neighbor is overly religious and polite?",
+    "options": ["Apu", "Carl", "Lenny", "Ned Flanders"],
+    "correctAnswer": "Ned Flanders"
+  },
+  {
+    "question": "What is Lisa’s IQ?",
+    "options": ["120", "130", "140", "159"],
+    "correctAnswer": "159"
+  },
+  {
+    "question": "What does Homer often say when something goes wrong?",
+    "options": ["Yikes!", "Nooo!", "D'oh!", "Dang it!"],
+    "correctAnswer": "D'oh!"
+  },
+  {
+    "question": "Which character is always falling asleep?",
+    "options": ["Barney", "Grandpa Simpson", "Ralph", "Otto"],
+    "correctAnswer": "Grandpa Simpson"
+  },
+  {
+    "question": "Who runs the Kwik-E-Mart?",
+    "options": ["Ned", "Apu", "Carl", "Skinner"],
+    "correctAnswer": "Apu"
+  },
+  {
+    "question": "What is Bart’s full name?",
+    "options": ["Bartholomew J. Simpson", "Bartley Jay Simpson", "Bart Jonathan Simpson", "Bartholomew George Simpson"],
+    "correctAnswer": "Bartholomew J. Simpson"
+  },
+  {
+    "question": "Which show often airs after The Simpsons on Fox?",
+    "options": ["Family Guy", "Friends", "Seinfeld", "Futurama"],
+    "correctAnswer": "Family Guy"
+  },
+  {
+    "question": "Who is Bart's teacher?",
+    "options": ["Mrs. Hoover", "Mrs. Krabappel", "Miss Frizzle", "Ms. Choksondik"],
+    "correctAnswer": "Mrs. Krabappel"
+  },
+  {
+    "question": "What holiday does the Simpson family often parody?",
+    "options": ["Christmas", "Halloween", "Valentine's Day", "Thanksgiving"],
+    "correctAnswer": "Halloween"
+  },
+  {
+    "question": "Which character is known for eating donuts?",
+    "options": ["Homer", "Lisa", "Moe", "Otto"],
+    "correctAnswer": "Homer"
+  },
+  {
+    "question": "What’s the name of the bar Homer frequents?",
+    "options": ["Joe’s", "Krusty’s", "Moe’s Tavern", "The Gulp & Blow"],
+    "correctAnswer": "Moe’s Tavern"
+  },
+  {
+    "question": "Which Springfield resident is the police chief?",
+    "options": ["Lou", "Skinner", "Wiggum", "Herman"],
+    "correctAnswer": "Wiggum"
+  },
+  {
+    "question": "Who is the bully with a distinctive laugh?",
+    "options": ["Milhouse", "Martin", "Nelson", "Kearney"],
+    "correctAnswer": "Nelson"
+  },
+  {
+    "question": "What kind of job does Homer have?",
+    "options": ["Mechanic", "Lawyer", "Nuclear Safety Inspector", "Teacher"],
+    "correctAnswer": "Nuclear Safety Inspector"
+  },
+  {
+    "question": "What’s the name of Marge’s twin sisters?",
+    "options": ["Lisa and Louise", "Selma and Patty", "Mary and Patty", "Jane and Selma"],
+    "correctAnswer": "Selma and Patty"
+  },
+  {
+    "question": "What is Ralph Wiggum known for?",
+    "options": ["Being smart", "Being a teacher", "Silly one-liners", "Being a bully"],
+    "correctAnswer": "Silly one-liners"
+  },
+  {
+    "question": "What is the Simpsons’ address?",
+    "options": ["123 Fake St.", "31 Evergreen Terrace", "742 Evergreen Terrace", "555 Maple Ave"],
+    "correctAnswer": "742 Evergreen Terrace"
+  },
+  {
+    "question": "What kind of animal is Blinky in the show?",
+    "options": ["Three-eyed fish", "Talking dog", "Two-headed bird", "Zombie cat"],
+    "correctAnswer": "Three-eyed fish"
+  },
+  {
+    "question": "Who is the richest man in Springfield?",
+    "options": ["Ned Flanders", "Homer Simpson", "Mr. Burns", "Mayor Quimby"],
+    "correctAnswer": "Mr. Burns"
+  },
+  {
+    "question": "Which character is a war veteran and runs an army store?",
+    "options": ["Wiggum", "Herman", "Barney", "Lenny"],
+    "correctAnswer": "Herman"
+  },
+  {
+    "question": "Who is Maggie's nemesis at the daycare?",
+    "options": ["Gerald", "Ralph", "Ling", "Rod"],
+    "correctAnswer": "Gerald"
+  },
+  {
+    "question": "Who runs Channel 6 news?",
+    "options": ["Kent Brockman", "Troy McClure", "Rainier Wolfcastle", "Sideshow Mel"],
+    "correctAnswer": "Kent Brockman"
+  },
+  {
+    "question": "What is Sideshow Bob’s real name?",
+    "options": ["Robert Underdunk Terwilliger", "Robert Burns", "Bob Quimby", "Bob Flanders"],
+    "correctAnswer": "Robert Underdunk Terwilliger"
+  },
+  {
+    "question": "Which actor voices Homer Simpson?",
+    "options": ["Dan Castellaneta", "Harry Shearer", "Hank Azaria", "Matt Groening"],
+    "correctAnswer": "Dan Castellaneta"
+  },
+  {
+    "question": "Which character works at the DMV?",
+    "options": ["Patty and Selma", "Apu", "Moe", "Krusty"],
+    "correctAnswer": "Patty and Selma"
+  },
+  {
+    "question": "Which president has been portrayed multiple times in the show?",
+    "options": ["Obama", "Bush", "Clinton", "Trump"],
+    "correctAnswer": "Clinton"
+  },
+  {
+    "question": "What kind of show is Itchy and Scratchy?",
+    "options": ["Cooking Show", "Talk Show", "Violent Cartoon", "News Show"],
+    "correctAnswer": "Violent Cartoon"
+  },
+  {
+    "question": "What’s the name of Krusty’s sidekick with a bone in his hair?",
+    "options": ["Sideshow Bob", "Sideshow Mel", "Crazy Joe", "Melvin"],
+    "correctAnswer": "Sideshow Mel"
+  },
+  {
+    "question": "Who often says, 'Hi-diddly-ho, neighborino!'?",
+    "options": ["Homer", "Ned Flanders", "Moe", "Apu"],
+    "correctAnswer": "Ned Flanders"
+  },
+  {
+    "question": "Who is the creator of The Simpsons?",
+    "options": ["Seth MacFarlane", "Matt Groening", "Dan Harmon", "Mike Judge"],
+    "correctAnswer": "Matt Groening"
+  },
+  {
+    "question": "How many fingers do the Simpsons characters have?",
+    "options": ["5", "4", "6", "3"],
+    "correctAnswer": "4"
+  }
+]

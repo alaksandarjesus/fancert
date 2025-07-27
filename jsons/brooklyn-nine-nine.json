@@ -1,0 +1,247 @@
+[
+  {
+    "question": "What is Jake Peralta's favorite movie?",
+    "options": ["Die Hard", "Lethal Weapon", "The Godfather", "Speed"],
+    "correctAnswer": "Die Hard"
+  },
+  {
+    "question": "Who is Captain Holt’s husband?",
+    "options": ["Kevin", "Terry", "Doug", "Charles"],
+    "correctAnswer": "Kevin"
+  },
+  {
+    "question": "What food is Terry obsessed with?",
+    "options": ["Cereal", "Yogurt", "Pizza", "Protein bars"],
+    "correctAnswer": "Yogurt"
+  },
+  {
+    "question": "What is the name of Charles Boyle’s son?",
+    "options": ["Nikolaj", "Jakob", "Sergei", "Lucas"],
+    "correctAnswer": "Nikolaj"
+  },
+  {
+    "question": "What number precinct does the squad work in?",
+    "options": ["99th", "12th", "21st", "51st"],
+    "correctAnswer": "99th"
+  },
+  {
+    "question": "Which character is known for being extremely organized?",
+    "options": ["Amy", "Jake", "Terry", "Gina"],
+    "correctAnswer": "Amy"
+  },
+  {
+    "question": "Who is Rosa's best friend in the squad?",
+    "options": ["Amy", "Jake", "Gina", "Holt"],
+    "correctAnswer": "Amy"
+  },
+  {
+    "question": "What does Gina Linetti do when she's bored?",
+    "options": ["Dances", "Tweets", "Pranks people", "Sings"],
+    "correctAnswer": "Dances"
+  },
+  {
+    "question": "Which animal does Boyle try to cook for Thanksgiving?",
+    "options": ["Turkey", "Ostrich", "Emu", "Duck"],
+    "correctAnswer": "Ostrich"
+  },
+  {
+    "question": "What is Holt's dog's name?",
+    "options": ["Cheddar", "Biscuit", "Captain", "Kevin Jr."],
+    "correctAnswer": "Cheddar"
+  },
+  {
+    "question": "Who usually wins the Halloween Heist?",
+    "options": ["Jake", "Holt", "Amy", "It changes every year"],
+    "correctAnswer": "It changes every year"
+  },
+  {
+    "question": "What is Rosa’s full name?",
+    "options": ["Rosa Alicia Diaz", "Rosa Maria Diaz", "Rosa Linda Diaz", "Rosa Bianca Diaz"],
+    "correctAnswer": "Rosa Diaz"
+  },
+  {
+    "question": "Who is known for shouting 'Nine-Nine!'?",
+    "options": ["Terry", "Jake", "Boyle", "Everyone"],
+    "correctAnswer": "Everyone"
+  },
+  {
+    "question": "What was Gina’s job before working at the precinct?",
+    "options": ["Dancer", "Barista", "Lawyer", "Artist"],
+    "correctAnswer": "Dancer"
+  },
+  {
+    "question": "Which captain temporarily replaces Holt?",
+    "options": ["Captain Seth Dozerman", "Captain Wuntch", "Captain Stentley", "Captain Kelly"],
+    "correctAnswer": "Captain Seth Dozerman"
+  },
+  {
+    "question": "What does Terry love?",
+    "options": ["Reese's", "M&M's", "Yogurt", "Snickers"],
+    "correctAnswer": "Yogurt" 
+  },
+  {
+    "question": "What instrument does Kevin play?",
+    "options": ["Cello", "Piano", "Violin", "Oboe"],
+    "correctAnswer": "Cello"
+  },
+  {
+    "question": "Who becomes the father of twins?",
+    "options": ["Terry", "Boyle", "Holt", "Jake"],
+    "correctAnswer": "Jake"
+  },
+  {
+    "question": "What is Jake’s middle name?",
+    "options": ["Jeffrey", "Michael", "Andy", "Hazard"],
+    "correctAnswer": "Jeffrey"
+  },
+  {
+    "question": "Which character fakes their own death?",
+    "options": ["Gina", "Rosa", "Boyle", "Jake"],
+    "correctAnswer": "Rosa"
+  },
+  {
+    "question": "Which of these is a recurring criminal in the series?",
+    "options": ["Doug Judy", "The Vulture", "Madeline Wuntch", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "What is The Vulture’s real name?",
+    "options": ["Keith Pembroke", "John Blake", "Teddy Ramos", "Simon Banks"],
+    "correctAnswer": "Keith Pembroke"
+  },
+  {
+    "question": "Who is Jake’s celebrity doppelgänger?",
+    "options": ["Andy Samberg", "Adam Sandler", "Ed Helms", "Jason Mantzoukas"],
+    "correctAnswer": "Ed Helms"
+  },
+  {
+    "question": "What country is Nikolaj from?",
+    "options": ["Latvia", "Russia", "Hungary", "Ukraine"],
+    "correctAnswer": "Latvia"
+  },
+  {
+    "question": "Who temporarily works for the FBI?",
+    "options": ["Rosa", "Jake", "Holt", "Amy"],
+    "correctAnswer": "Jake"
+  },
+  {
+    "question": "Which squad member has a PhD?",
+    "options": ["Terry", "Holt", "Amy", "Kevin"],
+    "correctAnswer": "Terry"
+  },
+  {
+    "question": "Who has a tattoo of their own face?",
+    "options": ["Boyle", "Gina", "Rosa", "Holt"],
+    "correctAnswer": "Boyle"
+  },
+  {
+    "question": "What is Boyle's favorite food?",
+    "options": ["Soup", "Meatballs", "Tofu", "Cereal"],
+    "correctAnswer": "Meatballs"
+  },
+  {
+    "question": "Who was Holt’s nemesis in the NYPD?",
+    "options": ["Wuntch", "Dozerman", "Kelly", "Terry"],
+    "correctAnswer": "Wuntch"
+  },
+  {
+    "question": "What is Amy obsessed with?",
+    "options": ["Binders", "Puzzles", "Notebooks", "Post-its"],
+    "correctAnswer": "Binders"
+  },
+  {
+    "question": "Who is known for their bad financial decisions?",
+    "options": ["Boyle", "Gina", "Jake", "Amy"],
+    "correctAnswer": "Gina"
+  },
+  {
+    "question": "Where does Terry's wife work?",
+    "options": ["Hospital", "Law firm", "School", "Tech company"],
+    "correctAnswer": "Hospital"
+  },
+  {
+    "question": "Which character is secretly rich?",
+    "options": ["Gina", "Boyle", "Terry", "Rosa"],
+    "correctAnswer": "Gina"
+  },
+  {
+    "question": "What is the name of Rosa’s dog?",
+    "options": ["Arlo", "Cuddles", "Frankenstein", "Adrian"],
+    "correctAnswer": "Arlo"
+  },
+  {
+    "question": "What is Jake’s go-to alias?",
+    "options": ["Johnny Tightlips", "Terry Jeffords", "Teddy", "Johnny Danger"],
+    "correctAnswer": "Johnny Danger"
+  },
+  {
+    "question": "What year did the show premiere?",
+    "options": ["2011", "2013", "2015", "2012"],
+    "correctAnswer": "2013"
+  },
+  {
+    "question": "What holiday is the Heist originally based on?",
+    "options": ["Halloween", "Thanksgiving", "Valentine’s Day", "April Fool’s"],
+    "correctAnswer": "Halloween"
+  },
+  {
+    "question": "What does Boyle name his food truck?",
+    "options": ["Meatcue", "Boyle's Bites", "The Meatball Bus", "Cluck Bucket"],
+    "correctAnswer": "Meatcue"
+  },
+  {
+    "question": "Who does Gina have a baby with?",
+    "options": ["Milton", "Teddy", "Boyle", "Unknown man"],
+    "correctAnswer": "Milton"
+  },
+  {
+    "question": "What dance crew did Gina belong to?",
+    "options": ["Dancey Regime", "Giggle Squad", "Twist Kickers", "Waffle Bros"],
+    "correctAnswer": "Dancey Regime"
+  },
+  {
+    "question": "What does Captain Holt always carry?",
+    "options": ["Notebook", "Badge", "Pen", "His dignity"],
+    "correctAnswer": "His dignity"
+  },
+  {
+    "question": "Who becomes commissioner in the final season?",
+    "options": ["Holt", "Amy", "Jake", "Terry"],
+    "correctAnswer": "Holt"
+  },
+  {
+    "question": "What instrument does Terry play?",
+    "options": ["Bass", "Violin", "Saxophone", "Trombone"],
+    "correctAnswer": "Bass"
+  },
+  {
+    "question": "What’s Jake's favorite cereal?",
+    "options": ["Honey Nut Cheerios", "Froot Loops", "Cap’n Crunch", "Frosted Flakes"],
+    "correctAnswer": "Cap’n Crunch"
+  },
+  {
+    "question": "Which character often talks in third person?",
+    "options": ["Terry", "Boyle", "Jake", "Rosa"],
+    "correctAnswer": "Terry"
+  },
+  {
+    "question": "What is Holt’s favorite drink?",
+    "options": ["Tea", "Wine", "Milk", "Seltzer"],
+    "correctAnswer": "Seltzer"
+  },
+  {
+    "question": "Which episode does the squad go to Florida?",
+    "options": ["Coral Palms", "Beach Bums", "Sun and Crime", "Operation Gator"],
+    "correctAnswer": "Coral Palms"
+  },
+  {
+    "question": "Who has a robot vacuum named Jacob?",
+    "options": ["Amy", "Gina", "Boyle", "Rosa"],
+    "correctAnswer": "Amy"
+  },
+  {
+    "question": "Who plays Doug Judy?",
+    "options": ["Craig Robinson", "Terry Crews", "Kenan Thompson", "Tracy Morgan"],
+    "correctAnswer": "Craig Robinson"
+  }
+]

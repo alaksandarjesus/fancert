@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What is the name of Jon Snow's direwolf?",
+    "options": ["Ghost", "Nymeria", "Summer", "Grey Wind"],
+    "correctAnswer": "Ghost"
+  },
+  {
+    "question": "Who is known as the 'Mother of Dragons'?",
+    "options": ["Cersei Lannister", "Arya Stark", "Daenerys Targaryen", "Sansa Stark"],
+    "correctAnswer": "Daenerys Targaryen"
+  },
+  {
+    "question": "What is the capital of the Seven Kingdoms?",
+    "options": ["Winterfell", "Casterly Rock", "King's Landing", "The Eyrie"],
+    "correctAnswer": "King's Landing"
+  },
+  {
+    "question": "Who was the first character to kill a White Walker?",
+    "options": ["Jon Snow", "Samwell Tarly", "Arya Stark", "Bran Stark"],
+    "correctAnswer": "Samwell Tarly"
+  },
+  {
+    "question": "What is Arya Stark’s sword called?",
+    "options": ["Oathkeeper", "Ice", "Needle", "Longclaw"],
+    "correctAnswer": "Needle"
+  },
+  {
+    "question": "What is the sigil of House Stark?",
+    "options": ["Lion", "Dragon", "Direwolf", "Kraken"],
+    "correctAnswer": "Direwolf"
+  },
+  {
+    "question": "Who was the Hand of the King to Robert Baratheon?",
+    "options": ["Eddard Stark", "Tywin Lannister", "Jaime Lannister", "Petyr Baelish"],
+    "correctAnswer": "Eddard Stark"
+  },
+  {
+    "question": "What’s the name of the giant ice wall?",
+    "options": ["The Frozen Wall", "The Ice Fortress", "The Wall", "Northern Shield"],
+    "correctAnswer": "The Wall"
+  },
+  {
+    "question": "Who is the youngest Stark child?",
+    "options": ["Bran", "Rickon", "Arya", "Sansa"],
+    "correctAnswer": "Rickon"
+  },
+  {
+    "question": "Who pushed Bran Stark from the tower?",
+    "options": ["Joffrey", "Cersei", "Tyrion", "Jaime"],
+    "correctAnswer": "Jaime"
+  },
+  {
+    "question": "Who kills the Night King?",
+    "options": ["Jon Snow", "Bran Stark", "Arya Stark", "Daenerys"],
+    "correctAnswer": "Arya Stark"
+  },
+  {
+    "question": "Who becomes king at the end of the series?",
+    "options": ["Jon Snow", "Tyrion Lannister", "Bran Stark", "Sansa Stark"],
+    "correctAnswer": "Bran Stark"
+  },
+  {
+    "question": "What is the name of Theon’s sister?",
+    "options": ["Yara", "Asha", "Lyanna", "Ellaria"],
+    "correctAnswer": "Yara"
+  },
+  {
+    "question": "Who is the Lord of Light?",
+    "options": ["R'hllor", "The Drowned God", "The Many-Faced God", "The Old Gods"],
+    "correctAnswer": "R'hllor"
+  },
+  {
+    "question": "Which dragon is resurrected by the Night King?",
+    "options": ["Drogon", "Rhaegal", "Viserion", "Balerion"],
+    "correctAnswer": "Viserion"
+  },
+  {
+    "question": "What is Tyrion’s preferred drink?",
+    "options": ["Ale", "Wine", "Mead", "Water"],
+    "correctAnswer": "Wine"
+  },
+  {
+    "question": "Who was killed at the Red Wedding?",
+    "options": ["Ned Stark", "Robb Stark", "Jon Snow", "Bran Stark"],
+    "correctAnswer": "Robb Stark"
+  },
+  {
+    "question": "What phrase is associated with House Lannister?",
+    "options": ["Winter is Coming", "Hear Me Roar", "Fire and Blood", "We Do Not Sow"],
+    "correctAnswer": "Hear Me Roar"
+  },
+  {
+    "question": "Who is known as the Kingslayer?",
+    "options": ["Ned Stark", "Jaime Lannister", "Jon Snow", "The Hound"],
+    "correctAnswer": "Jaime Lannister"
+  },
+  {
+    "question": "What is the Iron Bank’s home city?",
+    "options": ["Volantis", "Braavos", "Pentos", "Meereen"],
+    "correctAnswer": "Braavos"
+  },
+  {
+    "question": "Which character trains Arya in Braavos?",
+    "options": ["Jaqen H'ghar", "Syrio Forel", "The Waif", "Tycho Nestoris"],
+    "correctAnswer": "Jaqen H'ghar"
+  },
+  {
+    "question": "What is the name of Cersei’s daughter?",
+    "options": ["Myrcella", "Shireen", "Ygritte", "Lysa"],
+    "correctAnswer": "Myrcella"
+  },
+  {
+    "question": "What is the seat of House Targaryen?",
+    "options": ["Dragonstone", "Valyria", "Casterly Rock", "Storm's End"],
+    "correctAnswer": "Dragonstone"
+  },
+  {
+    "question": "Who is the Lord Commander of the Night’s Watch at the start?",
+    "options": ["Alliser Thorne", "Jeor Mormont", "Jon Snow", "Edd Tollett"],
+    "correctAnswer": "Jeor Mormont"
+  },
+  {
+    "question": "What’s the name of the sword given to Jon Snow?",
+    "options": ["Ice", "Oathkeeper", "Needle", "Longclaw"],
+    "correctAnswer": "Longclaw"
+  },
+  {
+    "question": "Who is known as The Hound?",
+    "options": ["Sandor Clegane", "Gregor Clegane", "Bronn", "Gendry"],
+    "correctAnswer": "Sandor Clegane"
+  },
+  {
+    "question": "Which house has a Kraken as its sigil?",
+    "options": ["Greyjoy", "Tully", "Martell", "Tyrell"],
+    "correctAnswer": "Greyjoy"
+  },
+  {
+    "question": "What do the Unsullied fight with?",
+    "options": ["Axes", "Swords", "Spears", "Daggers"],
+    "correctAnswer": "Spears"
+  },
+  {
+    "question": "Who poisons Joffrey?",
+    "options": ["Littlefinger", "Olenna Tyrell", "Varys", "Cersei"],
+    "correctAnswer": "Olenna Tyrell"
+  },
+  {
+    "question": "What’s the name of Brienne’s sword?",
+    "options": ["Ice", "Longclaw", "Heartsbane", "Oathkeeper"],
+    "correctAnswer": "Oathkeeper"
+  },
+  {
+    "question": "Which character is known for saying, 'You know nothing, Jon Snow'?",
+    "options": ["Ygritte", "Arya", "Cersei", "Sansa"],
+    "correctAnswer": "Ygritte"
+  },
+  {
+    "question": "What is the real name of Jon Snow?",
+    "options": ["Aegon Targaryen", "Eddard Stark", "Jaehaerys Targaryen", "Viserys Targaryen"],
+    "correctAnswer": "Aegon Targaryen"
+  },
+  {
+    "question": "What’s the name of the continent where most of the series takes place?",
+    "options": ["Essos", "Westeros", "Valyria", "Sothoryos"],
+    "correctAnswer": "Westeros"
+  },
+  {
+    "question": "Who helps Daenerys escape from Meereen?",
+    "options": ["Daario Naharis", "Grey Worm", "Tyrion", "Jorah Mormont"],
+    "correctAnswer": "Daario Naharis"
+  },
+  {
+    "question": "Which character becomes a Faceless Man?",
+    "options": ["Arya", "Bran", "Sansa", "Tyrion"],
+    "correctAnswer": "Arya"
+  },
+  {
+    "question": "Who rules the Vale of Arryn?",
+    "options": ["Lysa Arryn", "Robin Arryn", "Petyr Baelish", "Stannis Baratheon"],
+    "correctAnswer": "Robin Arryn"
+  },
+  {
+    "question": "What is the ancestral Valyrian steel sword of House Stark?",
+    "options": ["Heartsbane", "Ice", "Oathkeeper", "Longclaw"],
+    "correctAnswer": "Ice"
+  },
+  {
+    "question": "What’s the name of Samwell Tarly’s father?",
+    "options": ["Randyll", "Rickard", "Tywin", "Roose"],
+    "correctAnswer": "Randyll"
+  },
+  {
+    "question": "Who is the Red Woman?",
+    "options": ["Melisandre", "Yara", "Missandei", "Olenna"],
+    "correctAnswer": "Melisandre"
+  },
+  {
+    "question": "Who resurrects Jon Snow?",
+    "options": ["Bran", "Melisandre", "Samwell", "Arya"],
+    "correctAnswer": "Melisandre"
+  },
+  {
+    "question": "Which house rules over Highgarden?",
+    "options": ["Tyrell", "Martell", "Arryn", "Baratheon"],
+    "correctAnswer": "Tyrell"
+  },
+  {
+    "question": "What was Hodor’s real name?",
+    "options": ["Wylis", "Willas", "Wendell", "Waymar"],
+    "correctAnswer": "Wylis"
+  },
+  {
+    "question": "What was the name of Ned Stark’s sister?",
+    "options": ["Lyanna", "Catelyn", "Lysa", "Elia"],
+    "correctAnswer": "Lyanna"
+  },
+  {
+    "question": "Which Targaryen was known as the Mad King?",
+    "options": ["Aerys II", "Viserys", "Aegon V", "Rhaegar"],
+    "correctAnswer": "Aerys II"
+  },
+  {
+    "question": "Who wins the trial by combat for Tyrion in Season 1?",
+    "options": ["The Hound", "Bronn", "Jaime", "Oberyn"],
+    "correctAnswer": "Bronn"
+  },
+  {
+    "question": "What title does Brienne receive from Jaime?",
+    "options": ["Knight of the Seven Kingdoms", "Lady of Tarth", "Hand of the Queen", "Protector of the Realm"],
+    "correctAnswer": "Knight of the Seven Kingdoms"
+  },
+  {
+    "question": "Which group worships the Many-Faced God?",
+    "options": ["The Faceless Men", "The Dothraki", "The Brotherhood Without Banners", "The Unsullied"],
+    "correctAnswer": "The Faceless Men"
+  },
+  {
+    "question": "What does Valar Morghulis mean?",
+    "options": ["All men must die", "All men must serve", "Winter is coming", "Fire and blood"],
+    "correctAnswer": "All men must die"
+  }
+]

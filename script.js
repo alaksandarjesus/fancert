@@ -1,4 +1,3 @@
-const base = "http://127.0.0.1:5500";
 const shows$ = document.querySelector(".shows");
 const questions$ = document.querySelector(".questions");
 const certificate$ = document.querySelector(".certificate");
@@ -10,7 +9,7 @@ let selectedShow = null;
 
 async function getShows() {
   try {
-    const response = await fetch(`${base}/jsons/shows.json`);
+    const response = await fetch(`/jsons/shows.json`);
     renderShows(await response.json());
   } catch (error) {
     console.error("Error fetching shows:", error);
@@ -21,7 +20,21 @@ async function getShows() {
 function renderShows(shows) {
   shows$.innerHTML = ""; // Clear existing content
   questions$.innerHTML = ""; // Clear existing content
-
+  const cards$ = document.createElement("div");
+  cards$.className = "cards-container";
+    const input$ = document.createElement("input");
+  input$.type = "text";
+  input$.className = "search-input";
+  input$.addEventListener("keyup", function () {
+    const search = input$.value.trim().toLowerCase();
+    Array.from(cards$.children).forEach(card => {
+      const title = card.querySelector("h2").textContent.toLowerCase();
+      card.style.display = title.includes(search) ? "" : "none";
+    });
+  });
+  input$.placeholder = "Search shows...";
+  shows$.appendChild(input$);
+  
   shows.forEach((show) => {
     const card = document.createElement("div");
     card.className = "card";
@@ -38,15 +51,17 @@ function renderShows(shows) {
     card.appendChild(img);
     card.appendChild(title);
     card.appendChild(description);
-    shows$.appendChild(card);
+    cards$.appendChild(card);
       hideAllInViewport();
-    shows$.style.display = "grid";
+    
     card.addEventListener("click", () => {
       shows$.style.display = "none";
       selectedShow = show; // Store the selected show slug
       getQuestions();
     });
   });
+  shows$.style.display = "block";
+  shows$.appendChild(cards$);
 }
 
 async function getQuestions() {
@@ -55,7 +70,7 @@ async function getQuestions() {
     return;
   }
   try {
-    const response = await fetch(`${base}/jsons/${slug}.json`);
+    const response = await fetch(`/jsons/${slug}.json`);
 
     renderQuestions(await response.json());
   } catch (error) {
@@ -98,16 +113,20 @@ function renderQuestions(questions) {
     questions$.style.display = "block"; // Show questions section
   });
 
+  const div = document.createElement("div");
+  div.className = "action-buttons";
+  const backBtn = document.createElement("button");
+  backBtn.textContent = "Back to Shows";
+  backBtn.classList.add("back-button");
+  backBtn.addEventListener("click", backToShows)
+  div.appendChild(backBtn);
   // Add submit button
   const submitBtn = document.createElement("button");
   submitBtn.textContent = "Submit";
   submitBtn.type = "button";
   submitBtn.className = "submit-quiz";
-  questions$.appendChild(submitBtn);
-
-  // Add blur effect to background (container and shows)
-  const container = document.querySelector(".container");
-  const shows = document.querySelector(".shows");
+  div.appendChild(submitBtn);
+    questions$.appendChild(div);
 
   submitBtn.addEventListener("click", function () {
     // Calculate score
@@ -158,7 +177,7 @@ function renderQuestions(questions) {
       const line1 = `for achieving the status of `;
       ctx.fillText(line1, canvas.width / 2, 350);
 
-      ctx.font = "bold 18px Inter, sans-serif";
+      ctx.font = "bold 20px Inter, sans-serif";
       ctx.fillStyle = "#222";
       ctx.textAlign = "center";
       const line2 = `Certified ${selectedShow.title} Fan`;
@@ -177,11 +196,20 @@ function renderQuestions(questions) {
       ctx.fillText(line4, canvas.width / 2, 415);
     };
     // Add download button below the canvas
+    const div = document.createElement("div");
+    div.style.marginTop = "32px";
+
+  div.className = "action-buttons";
+  const backBtn = document.createElement("button");
+  backBtn.textContent = "Back to Shows";
+  backBtn.classList.add("back-button");
+  backBtn.addEventListener("click", backToShows)
+  div.appendChild(backBtn);
     const downloadBtn = document.createElement("button");
-    downloadBtn.textContent = "Download Certificate";
+    downloadBtn.textContent = "Download ";
     downloadBtn.className = "submit-quiz";
-    downloadBtn.style.marginTop = "32px";
-    certDiv.appendChild(downloadBtn);
+    div.appendChild(downloadBtn);
+    certDiv.appendChild(div);
     downloadBtn.addEventListener("click", function () {
       const link = document.createElement("a");
       link.download = "certificate.png";
@@ -196,4 +224,12 @@ function hideAllInViewport(){
     shows$.style.display = "none";
     questions$.style.display = "none";  
     certificate$.style.display = "none";    
+}
+
+function backToShows() {
+  hideAllInViewport();
+  shows$.style.display = "grid"; // Show the shows section again
+  questions$.innerHTML = ''; // Hide questions section
+  certificate$.innerHTML = ''; // Hide certificate section
+  selectedShow = null; // Reset selected show
 }

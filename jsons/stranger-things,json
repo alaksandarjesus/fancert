@@ -1,0 +1,247 @@
+[
+  {
+    "question": "What is the name of the town where Stranger Things takes place?",
+    "options": ["Hawkins", "Riverdale", "Derry", "Greendale"],
+    "correctAnswer": "Hawkins"
+  },
+  {
+    "question": "What is Eleven's real name?",
+    "options": ["Maxine", "Jane", "Nancy", "Sarah"],
+    "correctAnswer": "Jane"
+  },
+  {
+    "question": "What food does Eleven love?",
+    "options": ["Waffles", "Pancakes", "Pizza", "Donuts"],
+    "correctAnswer": "Waffles"
+  },
+  {
+    "question": "What is the name of the parallel dimension in Stranger Things?",
+    "options": ["The Reverse", "The Nether", "The Beyond", "The Upside Down"],
+    "correctAnswer": "The Upside Down"
+  },
+  {
+    "question": "What game do the boys often play together?",
+    "options": ["Risk", "Chess", "Dungeons & Dragons", "Monopoly"],
+    "correctAnswer": "Dungeons & Dragons"
+  },
+  {
+    "question": "What is the name of the police chief?",
+    "options": ["Bob", "Jim Hopper", "Sam Owens", "Brenner"],
+    "correctAnswer": "Jim Hopper"
+  },
+  {
+    "question": "Who disappears in the first episode?",
+    "options": ["Mike", "Dustin", "Will", "Lucas"],
+    "correctAnswer": "Will"
+  },
+  {
+    "question": "Who is Eleven’s adoptive father?",
+    "options": ["Brenner", "Bob", "Hopper", "Steve"],
+    "correctAnswer": "Hopper"
+  },
+  {
+    "question": "What is the name of Will’s mother?",
+    "options": ["Joyce", "Karen", "Nancy", "Claudia"],
+    "correctAnswer": "Joyce"
+  },
+  {
+    "question": "Who plays Steve Harrington?",
+    "options": ["Charlie Heaton", "Joe Keery", "David Harbour", "Finn Wolfhard"],
+    "correctAnswer": "Joe Keery"
+  },
+  {
+    "question": "What is the name of Dustin’s pet in Season 2?",
+    "options": ["Dart", "Spot", "Shadow", "Fluffy"],
+    "correctAnswer": "Dart"
+  },
+  {
+    "question": "What organization conducts experiments on Eleven?",
+    "options": ["CIA", "Hawkins Lab", "MKUltra", "DARPA"],
+    "correctAnswer": "Hawkins Lab"
+  },
+  {
+    "question": "What song plays during Max's escape from Vecna?",
+    "options": ["Running Up That Hill", "Time After Time", "Africa", "Don't Stop Believin'"],
+    "correctAnswer": "Running Up That Hill"
+  },
+  {
+    "question": "What is Steve’s signature weapon?",
+    "options": ["Bat with nails", "Knife", "Slingshot", "Crowbar"],
+    "correctAnswer": "Bat with nails"
+  },
+  {
+    "question": "What is the name of Lucas’s sister?",
+    "options": ["Tina", "Erica", "Angela", "Vicki"],
+    "correctAnswer": "Erica"
+  },
+  {
+    "question": "What mall is featured in Season 3?",
+    "options": ["Hawkins Plaza", "Starcourt Mall", "Roosevelt Mall", "Southside Center"],
+    "correctAnswer": "Starcourt Mall"
+  },
+  {
+    "question": "What creature is the main threat in Season 1?",
+    "options": ["Mind Flayer", "Demodog", "Demogorgon", "Vecna"],
+    "correctAnswer": "Demogorgon"
+  },
+  {
+    "question": "Who is Nancy’s brother?",
+    "options": ["Will", "Mike", "Steve", "Jonathan"],
+    "correctAnswer": "Mike"
+  },
+  {
+    "question": "What is the name of the Russian soldier who befriends Hopper?",
+    "options": ["Alexei", "Boris", "Ivan", "Dimitri"],
+    "correctAnswer": "Alexei"
+  },
+  {
+    "question": "Who works at Scoops Ahoy with Steve?",
+    "options": ["Nancy", "Dustin", "Robin", "Lucas"],
+    "correctAnswer": "Robin"
+  },
+  {
+    "question": "What is Robin’s last name?",
+    "options": ["Buckley", "Smith", "Wheeler", "Sinclair"],
+    "correctAnswer": "Buckley"
+  },
+  {
+    "question": "What secret code do Dustin and Suzie use?",
+    "options": ["Morse Code", "Ham Radio", "NeverEnding Story", "Russian Encryption"],
+    "correctAnswer": "NeverEnding Story"
+  },
+  {
+    "question": "Who is Vecna’s original identity?",
+    "options": ["001", "008", "Billy", "Bob"],
+    "correctAnswer": "001"
+  },
+  {
+    "question": "What is Max's full name?",
+    "options": ["Max Mayfield", "Max Hargrove", "Max Sinclair", "Max Wheeler"],
+    "correctAnswer": "Max Mayfield"
+  },
+  {
+    "question": "What device does the group use to talk long-distance in Season 3?",
+    "options": ["Computer", "Shortwave Radio", "Walkie-talkies", "Ham Radio"],
+    "correctAnswer": "Ham Radio"
+  },
+  {
+    "question": "Where does Hopper end up at the end of Season 3?",
+    "options": ["Russia", "Hawkins Lab", "The Upside Down", "Prison"],
+    "correctAnswer": "Russia"
+  },
+  {
+    "question": "What is Eleven’s number tattooed on her arm?",
+    "options": ["7", "11", "08", "001"],
+    "correctAnswer": "11"
+  },
+  {
+    "question": "What is the name of the Mind Flayer’s giant spider-like form?",
+    "options": ["Shadow Beast", "The Flayed", "Spider Monster", "The Thing"],
+    "correctAnswer": "Spider Monster"
+  },
+  {
+    "question": "What is the name of Nancy's friend who dies in Season 1?",
+    "options": ["Heather", "Chrissy", "Barb", "Kelly"],
+    "correctAnswer": "Barb"
+  },
+  {
+    "question": "What is the password to Suzie’s computer?",
+    "options": ["Planck’s Constant", "Starlight", "NeverEnding", "ScienceRules"],
+    "correctAnswer": "Planck’s Constant"
+  },
+  {
+    "question": "What is Eleven’s favorite phrase in Season 1?",
+    "options": ["Bye", "No", "Friends don’t lie", "Stay back"],
+    "correctAnswer": "Friends don’t lie"
+  },
+  {
+    "question": "What sport does Lucas play in Season 4?",
+    "options": ["Football", "Basketball", "Wrestling", "Baseball"],
+    "correctAnswer": "Basketball"
+  },
+  {
+    "question": "Who is Billy related to?",
+    "options": ["Steve", "Mike", "Max", "Robin"],
+    "correctAnswer": "Max"
+  },
+  {
+    "question": "What song does Suzie and Dustin sing?",
+    "options": ["Let It Go", "Take On Me", "NeverEnding Story", "Africa"],
+    "correctAnswer": "NeverEnding Story"
+  },
+  {
+    "question": "What do the kids call their monster-hunting group?",
+    "options": ["Hawkins Club", "Hellfire Club", "The Party", "The Misfits"],
+    "correctAnswer": "The Party"
+  },
+  {
+    "question": "Who leads the Hellfire Club?",
+    "options": ["Eddie", "Steve", "Lucas", "Jonathan"],
+    "correctAnswer": "Eddie"
+  },
+  {
+    "question": "What arcade game is Max really good at?",
+    "options": ["Dig Dug", "Pac-Man", "Donkey Kong", "Galaga"],
+    "correctAnswer": "Dig Dug"
+  },
+  {
+    "question": "What is Joyce’s profession?",
+    "options": ["Waitress", "Store clerk", "Secretary", "Retail worker"],
+    "correctAnswer": "Retail worker"
+  },
+  {
+    "question": "Who becomes possessed by the Mind Flayer in Season 2?",
+    "options": ["Mike", "Will", "Dustin", "Steve"],
+    "correctAnswer": "Will"
+  },
+  {
+    "question": "What year is Season 1 set in?",
+    "options": ["1983", "1985", "1987", "1990"],
+    "correctAnswer": "1983"
+  },
+  {
+    "question": "What happens when Eleven uses her powers too much?",
+    "options": ["Nosebleed", "Faints", "Hair falls out", "Cries"],
+    "correctAnswer": "Nosebleed"
+  },
+  {
+    "question": "Where does Nancy work as an intern?",
+    "options": ["Hawkins Lab", "The Post", "Hawkins High", "Radio Shack"],
+    "correctAnswer": "The Post"
+  },
+  {
+    "question": "Who says: 'She's our friend and she's crazy'?",
+    "options": ["Will", "Lucas", "Mike", "Dustin"],
+    "correctAnswer": "Dustin"
+  },
+  {
+    "question": "What does Eleven do to save Mike in Season 1?",
+    "options": ["Hides him", "Fights the Demogorgon", "Calls Hopper", "Runs away"],
+    "correctAnswer": "Fights the Demogorgon"
+  },
+  {
+    "question": "Who is the school science teacher that helps the kids?",
+    "options": ["Mr. Clarke", "Mr. Allen", "Mr. Byers", "Mr. Johnson"],
+    "correctAnswer": "Mr. Clarke"
+  },
+  {
+    "question": "What state is Hawkins located in?",
+    "options": ["Ohio", "Indiana", "Illinois", "Michigan"],
+    "correctAnswer": "Indiana"
+  },
+  {
+    "question": "What is the monster in Season 4 called?",
+    "options": ["Vecna", "Flayer", "Demobat", "Grinner"],
+    "correctAnswer": "Vecna"
+  },
+  {
+    "question": "What store does Robin and Steve work at in Season 4?",
+    "options": ["Family Video", "Blockbuster", "Starcourt Records", "RadioShack"],
+    "correctAnswer": "Family Video"
+  },
+  {
+    "question": "What do the Russians hide underneath Starcourt Mall?",
+    "options": ["A lab", "A portal", "A weapons vault", "Treasure"],
+    "correctAnswer": "A portal"
+  }
+]

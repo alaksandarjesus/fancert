@@ -1,0 +1,237 @@
+[
+  {
+    "question": "What instrument does Ted steal for Robin?",
+    "options": ["Blue tuba", "Red trumpet", "Green saxophone", "Yellow guitar"],
+    "correctAnswer": "Blue tuba"
+  },
+  {
+    "question": "What is Barney’s favorite catchphrase?",
+    "options": ["Legendary", "Awesome", "Suit up", "High five"],
+    "correctAnswer": "Suit up"
+  },
+  {
+    "question": "What is the name of Ted's best friend and college roommate?",
+    "options": ["Marshall", "Barney", "Carl", "Ranjit"],
+    "correctAnswer": "Marshall"
+  },
+  {
+    "question": "What is Marshall’s profession?",
+    "options": ["Doctor", "Lawyer", "Architect", "Teacher"],
+    "correctAnswer": "Lawyer"
+  },
+  {
+    "question": "What’s the name of Lily and Marshall’s first child?",
+    "options": ["Daisy", "Marvin", "Tommy", "Max"],
+    "correctAnswer": "Marvin"
+  },
+  {
+    "question": "Where does Robin originally come from?",
+    "options": ["New York", "Chicago", "Toronto", "Vancouver"],
+    "correctAnswer": "Toronto"
+  },
+  {
+    "question": "What is Ted’s profession?",
+    "options": ["Engineer", "Architect", "Lawyer", "Journalist"],
+    "correctAnswer": "Architect"
+  },
+  {
+    "question": "What is Barney’s job?",
+    "options": ["Consultant", "Please", "Unknown", "Data analyst"],
+    "correctAnswer": "Please"
+  },
+  {
+    "question": "Who is the bartender at MacLaren’s Pub?",
+    "options": ["Carl", "Ranjit", "Stuart", "Doug"],
+    "correctAnswer": "Carl"
+  },
+  {
+    "question": "What does Robin reveal she was as a teenager in Canada?",
+    "options": ["Figure skater", "Pop star", "TV host", "Wrestler"],
+    "correctAnswer": "Pop star"
+  },
+  {
+    "question": "What was the name of Robin’s alter ego in her teen music career?",
+    "options": ["Robin D.", "Robynne", "Robin Sparkles", "Robin Fresh"],
+    "correctAnswer": "Robin Sparkles"
+  },
+  {
+    "question": "What is the name of Barney’s half-brother?",
+    "options": ["James", "Eric", "Kevin", "Don"],
+    "correctAnswer": "James"
+  },
+  {
+    "question": "Which university does Ted teach at?",
+    "options": ["NYU", "Columbia", "Wesleyan", "Yale"],
+    "correctAnswer": "Columbia"
+  },
+  {
+    "question": "What is Lily’s profession?",
+    "options": ["Artist", "Teacher", "Designer", "Chef"],
+    "correctAnswer": "Teacher"
+  },
+  {
+    "question": "What is the name of Ted’s architecture firm?",
+    "options": ["GNB", "Mosbius Designs", "TM Architects", "New York Modern"],
+    "correctAnswer": "Mosbius Designs"
+  },
+  {
+    "question": "What is the name of the bar the gang always hangs out in?",
+    "options": ["Central Pub", "Paddy’s", "MacLaren's", "Ted’s Tavern"],
+    "correctAnswer": "MacLaren's"
+  },
+  {
+    "question": "Who is the mother of Ted's children?",
+    "options": ["Stella", "Tracy", "Victoria", "Robin"],
+    "correctAnswer": "Tracy"
+  },
+  {
+    "question": "What is the name of Marshall’s law school friend?",
+    "options": ["Brad", "Kevin", "Derek", "Tony"],
+    "correctAnswer": "Brad"
+  },
+  {
+    "question": "Who does Barney marry?",
+    "options": ["Nora", "Quinn", "Robin", "Tracy"],
+    "correctAnswer": "Robin"
+  },
+  {
+    "question": "What was the name of Ted’s high school girlfriend he reconnects with?",
+    "options": ["Stella", "Karen", "Zoey", "Victoria"],
+    "correctAnswer": "Karen"
+  },
+  {
+    "question": "What game show did Barney appear on as a child?",
+    "options": ["Let’s Make a Deal", "The Price Is Right", "Jeopardy!", "Family Feud"],
+    "correctAnswer": "The Price Is Right"
+  },
+  {
+    "question": "What holiday does Barney make up?",
+    "options": ["Bro Day", "Have You Met Ted Day", "Not-A-Father’s Day", "International Suit Day"],
+    "correctAnswer": "Not-A-Father’s Day"
+  },
+  {
+    "question": "What’s the name of Lily’s ex-boyfriend who appears several times?",
+    "options": ["Sandy", "Scooter", "James", "Don"],
+    "correctAnswer": "Scooter"
+  },
+  {
+    "question": "What name does Ted use for one-night stands?",
+    "options": ["Ted Mosby", "Lorenzo Von Matterhorn", "Art Vandelay", "Dr. X"],
+    "correctAnswer": "Lorenzo Von Matterhorn"
+  },
+  {
+    "question": "What did Ted steal from the blue French horn restaurant?",
+    "options": ["A candle", "A menu", "A chair", "A blue French horn"],
+    "correctAnswer": "A blue French horn"
+  },
+  {
+    "question": "Who officiated Barney and Robin’s wedding?",
+    "options": ["Marshall", "Ted", "Lily", "James"],
+    "correctAnswer": "James"
+  },
+  {
+    "question": "What is the name of Marshall’s father?",
+    "options": ["Joe", "Marvin Sr.", "Martin", "Jerry"],
+    "correctAnswer": "Marvin Sr."
+  },
+  {
+    "question": "Where does Ted meet Tracy for the first time?",
+    "options": ["At MacLaren’s", "At Barney and Robin’s wedding", "On the train platform", "At college"],
+    "correctAnswer": "On the train platform"
+  },
+  {
+    "question": "Which celebrity plays himself as Barney’s idol?",
+    "options": ["Neil Patrick Harris", "Billy Zabka", "Ralph Macchio", "Jason Segel"],
+    "correctAnswer": "Billy Zabka"
+  },
+  {
+    "question": "What animal does Lily have nightmares about?",
+    "options": ["Ducks", "Horses", "Rats", "Cockroaches"],
+    "correctAnswer": "Horses"
+  },
+  {
+    "question": "Who becomes a judge?",
+    "options": ["Marshall", "Ted", "Barney", "Kevin"],
+    "correctAnswer": "Marshall"
+  },
+  {
+    "question": "What’s the name of the goat in Ted’s apartment?",
+    "options": ["Lily", "Gogo", "Missy", "Gary"],
+    "correctAnswer": "Missy"
+  },
+  {
+    "question": "What is Barney's laser tag rival’s name?",
+    "options": ["Tony", "Billy", "JP", "Randy"],
+    "correctAnswer": "JP"
+  },
+  {
+    "question": "What item of clothing does Barney consider sacred?",
+    "options": ["His tie", "His shoes", "His suit", "His cufflinks"],
+    "correctAnswer": "His suit"
+  },
+  {
+    "question": "Who was obsessed with ‘The Wedding Bride’ movie?",
+    "options": ["Barney", "Ted", "Lily", "Marshall"],
+    "correctAnswer": "Ted"
+  },
+  {
+    "question": "What does Robin’s dog’s name sound like?",
+    "options": ["Mugsy", "Sir Scratchewan", "Pookie", "Scherbatsky"],
+    "correctAnswer": "Sir Scratchewan"
+  },
+  {
+    "question": "Who moves to Rome for a year?",
+    "options": ["Lily", "Marshall", "Ted", "Robin"],
+    "correctAnswer": "Lily"
+  },
+  {
+    "question": "What is the name of the girl Barney dates who’s a stripper?",
+    "options": ["Quinn", "Nora", "Zoey", "Wendy"],
+    "correctAnswer": "Quinn"
+  },
+  {
+    "question": "What fruit is associated with a mysterious night for Ted?",
+    "options": ["Pineapple", "Banana", "Coconut", "Apple"],
+    "correctAnswer": "Pineapple"
+  },
+  {
+    "question": "Who is the captain in the series?",
+    "options": ["Robin’s dad", "Zoey’s ex-husband", "Ted’s boss", "Marshall’s uncle"],
+    "correctAnswer": "Zoey’s ex-husband"
+  },
+  {
+    "question": "Where does Marshall propose to Lily?",
+    "options": ["In Central Park", "On the rooftop", "At college", "In their apartment"],
+    "correctAnswer": "On the rooftop"
+  },
+  {
+    "question": "Who was Ted’s best man at his wedding?",
+    "options": ["Marshall", "Barney", "Robin", "He didn’t have one"],
+    "correctAnswer": "Marshall"
+  },
+  {
+    "question": "What is Robin’s job?",
+    "options": ["Teacher", "News anchor", "Lawyer", "Radio host"],
+    "correctAnswer": "News anchor"
+  },
+  {
+    "question": "What is the name of the pub before it was MacLaren’s?",
+    "options": ["O’Hanlon’s", "Puzzles", "Gus’s", "McGee’s"],
+    "correctAnswer": "Puzzles"
+  },
+  {
+    "question": "Who says 'Challenge accepted' frequently?",
+    "options": ["Marshall", "Ted", "Barney", "Robin"],
+    "correctAnswer": "Barney"
+  },
+  {
+    "question": "Who tells the story of how Ted met their mother?",
+    "options": ["Barney", "Lily", "Marshall", "Future Ted"],
+    "correctAnswer": "Future Ted"
+  },
+  {
+    "question": "What is the final twist in the series finale?",
+    "options": ["Barney moves to Canada", "The mother dies", "Robin becomes a nun", "Ted marries Victoria"],
+    "correctAnswer": "The mother dies"
+  }
+]
