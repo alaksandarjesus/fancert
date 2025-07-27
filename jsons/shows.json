@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Big Bang Theory",
+    "slug":"big-bang-theory",
+    "description": "A sitcom about a group of scientists and their social lives.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/800px-TBBT_logo.svg.png"
+  },
+  {
+    "title": "Friends",
+    "slug":"friends",
+    "description": "A story about six friends living in New York.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Friends_season_one_cast.jpg"
+  }
+  
+]

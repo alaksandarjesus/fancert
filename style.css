@@ -1,0 +1,116 @@
+.certificate {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
+/* Style and align the quiz submit button */
+.submit-quiz {
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+  padding: 10px 32px;
+  background: #4f8cff;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(79,140,255,0.08);
+  transition: background 0.2s, box-shadow 0.2s;
+}
+
+.submit-quiz:hover, .submit-quiz:focus {
+  background: #2563eb;
+  box-shadow: 0 4px 16px rgba(79,140,255,0.16);
+}
+body{
+     font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  transition: box-shadow 0.2s;
+  max-width: 350px;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  max-height: 300px;
+  object-fit: cover;
+  display: block;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.card h2 {
+  font-size: 1.5rem;
+  margin: 16px 16px 8px 16px;
+}
+
+.card p {
+  font-size: 1rem;
+  color: #555;
+  margin: 0 16px 16px 16px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+}
+
+/* Remove list style for quiz options */
+.question ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 16px 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+@media (max-width: 600px) {
+  .question ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+.shows {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin: 40px 0;
+}
+
+@media (max-width: 1024px) {
+  .shows {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .shows {
+    grid-template-columns: 1fr;
+  }
+}

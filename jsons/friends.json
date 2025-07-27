@@ -1,0 +1,532 @@
+[
+    {
+        "question": "What is the name of Ross and Monica's dog as a child?",
+        "options": [
+            "Fluffy",
+            "Chi‑Chi",
+            "Spot",
+            "Sparky"
+        ],
+        "correctAnswer": "Chi‑Chi"
+    },
+    {
+        "question": "What does Joey never share?",
+        "options": [
+            "His apartment",
+            "His food",
+            "His clothes",
+            "His car"
+        ],
+        "correctAnswer": "His food"
+    },
+    {
+        "question": "Chandler's middle name is?",
+        "options": [
+            "Muriel",
+            "Matthew",
+            "Michael",
+            "Milton"
+        ],
+        "correctAnswer": "Muriel"
+    },
+    {
+        "question": "Who once got a turkey stuck on their head?",
+        "options": [
+            "Joey",
+            "Monica",
+            "Ross",
+            "Chandler"
+        ],
+        "correctAnswer": "Monica"
+    },
+    {
+        "question": "Phoebe's most famous song is?",
+        "options": [
+            "Sticky Shoes",
+            "Crusty Socks",
+            "Smelly Cat",
+            "Furry Rat"
+        ],
+        "correctAnswer": "Smelly Cat"
+    },
+    {
+        "question": "How many sisters does Joey have?",
+        "options": [
+            "Seven",
+            "Two",
+            "Five",
+            "Three"
+        ],
+        "correctAnswer": "Seven"
+    },
+    {
+        "question": "Who pees on Monica's leg?",
+        "options": [
+            "Chandler",
+            "Ross",
+            "Joey",
+            "Rachel"
+        ],
+        "correctAnswer": "Ross"
+    },
+    {
+        "question": "What was the name of Joey's penguin?",
+        "options": [
+            "Snowball",
+            "Waddle",
+            "Hugsy",
+            "Flipper"
+        ],
+        "correctAnswer": "Hugsy"
+    },
+    {
+        "question": "What actress plays Rachel?",
+        "options": [
+            "Courteney Cox",
+            "Liv Tyler",
+            "Jennifer Aniston",
+            "Lisa Kudrow"
+        ],
+        "correctAnswer": "Jennifer Aniston"
+    },
+    {
+        "question": "What is Janice's catchphrase?",
+        "options": [
+            "‘Oh. My. God.'",
+            "‘How you doin'?‘",
+            "‘PIVOT!'",
+            "‘We were on a break!'"
+        ],
+        "correctAnswer": "‘Oh. My. God.'"
+    },
+    {
+        "question": "Which job did Rachel have at Central Perk first?",
+        "options": [
+            "Server",
+            "Cleaner",
+            "Manager",
+            "Coffee roaster"
+        ],
+        "correctAnswer": "Server"
+    },
+    {
+        "question": "What number apartment does Monica live in?",
+        "options": [
+            "4",
+            "5",
+            "20",
+            "24"
+        ],
+        "correctAnswer": "20"
+    },
+    {
+        "question": "Which character got a tattoo of a woman's name that needed covering up?",
+        "options": [
+            "Phoebe",
+            "Chandler",
+            "Ross",
+            "Monica"
+        ],
+        "correctAnswer": "Phoebe"
+    },
+    {
+        "question": "Which friend was a professional chef?",
+        "options": [
+            "Joey",
+            "Monica",
+            "Rachel",
+            "Phoebe"
+        ],
+        "correctAnswer": "Monica"
+    },
+    {
+        "question": "Ross and Rachel's daughter is named?",
+        "options": [
+            "Emma",
+            "Ella",
+            "Emily",
+            "Erica"
+        ],
+        "correctAnswer": "Emma"
+    },
+    {
+        "question": "Who got stuck in an ATM vestibule during a blackout?",
+        "options": [
+            "Joey & Chandler",
+            "Monica & Ross",
+            "Rachel & Phoebe",
+            "Chandler & Rachel"
+        ],
+        "correctAnswer": "Joey & Chandler"
+    },
+    {
+        "question": "What is Chandler's job exactly?",
+        "options": [
+            "Statistical analysis and data reconfiguration",
+            "Advertising",
+            "Graphic designer",
+            "Accountant"
+        ],
+        "correctAnswer": "Statistical analysis and data reconfiguration"
+    },
+    {
+        "question": "Ross became a lecturer in",
+        "options": [
+            "Anthropology",
+            "Paleontology",
+            "Geology",
+            "Archaeology"
+        ],
+        "correctAnswer": "Paleontology"
+    },
+    {
+        "question": "Monica dated a hockey player named?",
+        "options": [
+            "Danny",
+            "Rob",
+            "Pete",
+            "Brian"
+        ],
+        "correctAnswer": "Pete"
+    },
+    {
+        "question": "What fruit is Ross allergic to?",
+        "options": [
+            "Kiwi",
+            "Strawberries",
+            "Peaches",
+            "Grapes"
+        ],
+        "correctAnswer": "Kiwi"
+    },
+    {
+        "question": "Ross's second wedding was in?",
+        "options": [
+            "Las Vegas",
+            "London",
+            "Vegas",
+            "Montana"
+        ],
+        "correctAnswer": "Las Vegas"
+    },
+    {
+        "question": "Who plays Phoebe Buffay?",
+        "options": [
+            "Courteney Cox",
+            "Jennifer Aniston",
+            "Lisa Kudrow",
+            "Maggie Wheeler"
+        ],
+        "correctAnswer": "Lisa Kudrow"
+    },
+    {
+        "question": "What did Chandler and Joey name their TV?",
+        "options": [
+            "Ken Adams",
+            "Eddie Murphy",
+            "Yasmine Bleeth",
+            "Marlon Brando"
+        ],
+        "correctAnswer": "Marlon Brando"
+    },
+    {
+        "question": "What was the name of Rachel's hairless cat?",
+        "options": [
+            "Mrs. Whiskerson",
+            "Mrs. Norris",
+            "Mrs. Potter",
+            "Mrs. Checkers"
+        ],
+        "correctAnswer": "Mrs. Whiskerson"
+    },
+    {
+        "question": "Who said, “We were on a break!”?",
+        "options": [
+            "Monica",
+            "Rachel",
+            "Ross",
+            "Phoebe"
+        ],
+        "correctAnswer": "Ross"
+    },
+    {
+        "question": "What game show did Joey host?",
+        "options": [
+            "Bamboozled",
+            "The Big Game",
+            "Celebrity Challenge",
+            "Friends Quiz"
+        ],
+        "correctAnswer": "Bamboozled"
+    },
+    {
+        "question": "Which character was a masseuse?",
+        "options": [
+            "Rachel",
+            "Monica",
+            "Phoebe",
+            "Janice"
+        ],
+        "correctAnswer": "Phoebe"
+    },
+    {
+        "question": "What's the name of Chandler's father's Las Vegas all-male burlesque show?",
+        "options": [
+            "Viva Las Gay-gas",
+            "They're Off Their Rockers",
+            "Chandler's Show",
+            "Legends in Time"
+        ],
+        "correctAnswer": "Viva Las Gay-gas"
+    },
+    {
+        "question": "What part of the body did Chandler get lasered?",
+        "options": [
+            "Back",
+            "Foot",
+            "Armpit",
+            "Chest"
+        ],
+        "correctAnswer": "Back"
+    },
+    {
+        "question": "Who officiated Ross and Emily's wedding?",
+        "options": [
+            "Mr. Heckles",
+            "Rachel",
+            "Joey",
+            "Phoebe"
+        ],
+        "correctAnswer": "Mr. Heckles"
+    },
+    {
+        "question": "Monica accidentally threw a woman's wooden leg out the window. Whose leg was it?",
+        "options": [
+            "Mrs. Bing",
+            "Mrs. Green",
+            "Mrs. Whistler",
+            "Mrs. Tribbiani"
+        ],
+        "correctAnswer": "Mrs. Bing"
+    },
+    {
+        "question": "Who got a spray tan that went horribly wrong?",
+        "options": [
+            "Ross",
+            "Rachel",
+            "Monica",
+            "Phoebe"
+        ],
+        "correctAnswer": "Ross"
+    },
+    {
+        "question": "What is Ross's son's name (with Carol)?",
+        "options": [
+            "Ben",
+            "Mike",
+            "Eric",
+            "Adam"
+        ],
+        "correctAnswer": "Ben"
+    },
+    {
+        "question": "What did Joey's character on Days of Our Lives do?",
+        "options": [
+            "Doctor",
+            "Lawyer",
+            "Detective",
+            "Chef"
+        ],
+        "correctAnswer": "Doctor"
+    },
+    {
+        "question": "Who kissed Joey to make Chandler jealous?",
+        "options": [
+            "Monica",
+            "Rachel",
+            "Phoebe",
+            "Janice"
+        ],
+        "correctAnswer": "Katie (Phoebe's friend)"
+    },
+    {
+        "question": "Where did Ross and Monica grow up?",
+        "options": [
+            "Long Island",
+            "Brooklyn",
+            "Queens",
+            "Upper West Side"
+        ],
+        "correctAnswer": "Long Island"
+    },
+    {
+        "question": "What was the name of the coffee place they frequent?",
+        "options": [
+            "Central Perk",
+            "Coffee Spot",
+            "Friends Café",
+            "Perk Up"
+        ],
+        "correctAnswer": "Central Perk"
+    },
+    {
+        "question": "Which friend got stuck in a mailbox as a joke?",
+        "options": [
+            "Chandler",
+            "Ross",
+            "Monica",
+            "Joey"
+        ],
+        "correctAnswer": "Mike"
+    },
+{
+    "question": "What's the name of Chandler's insurance company workplace?",
+    "options": [
+        "Chandler Bing Insurance",
+        "Monsters Inc",
+        "Statistical Services",
+        "None—they don't say"
+    ],
+    "correctAnswer": "None—they don't say"
+},
+{
+    "question": "What was Chandler's mother's profession?",
+    "options": [
+        "Novelist",
+        "Songwriter",
+        "Miss Universe",
+        "Actress"
+    ],
+    "correctAnswer": "Novelist"
+},
+{
+    "question": "Joey had a stuffed penguin. Name it:",
+    "options": [
+        "Snowflake",
+        "Hugsy",
+        "Floppy",
+        "Pengy"
+    ],
+    "correctAnswer": "Hugsy"
+},
+{
+    "question": "Phoebe found a police badge. What did she do with it?",
+    "options": [
+        "Threw it away",
+        "Kept as souvenir",
+        "Returned it to police",
+        "Sold on eBay"
+    ],
+    "correctAnswer": "Sold on eBay"
+},
+{
+    "question": "Rachel got a job at Ralph Lauren as?",
+    "options": [
+        "Designer",
+        "Model",
+        "Buyer",
+        "Sales Associate"
+    ],
+    "correctAnswer": "Buyer"
+},
+{
+    "question": "Ross married Emily in which city?",
+    "options": [
+        "London",
+        "New York",
+        "Las Vegas",
+        "Miami"
+    ],
+    "correctAnswer": "London"
+},
+{
+    "question": "What was the original name of the show before ‘Friends'?",
+    "options": [
+        "Six of One",
+        "Friends Like Us",
+        "Across the Hall",
+        "Insomnia Café"
+    ],
+    "correctAnswer": "Insomnia Café"
+},
+{
+    "question": "Which food does Chandler hate?",
+    "options": [
+        "Peanut butter on muffins",
+        "Licorice",
+        "Shrimp",
+        "Mayonnaise"
+    ],
+    "correctAnswer": "Mayonnaise"
+},
+{
+    "question": "How long did Ross work at the Museum of Natural History?",
+    "options": [
+        "6 years",
+        "4 years",
+        "3 years",
+        "5 years"
+    ],
+    "correctAnswer": "6 years"
+},
+{
+    "question": "Joey wore a duck and chick for pets. True or false?",
+    "options": [
+        "True",
+        "False",
+        "Never had them",
+        "They died early"
+    ],
+    "correctAnswer": "True"
+},
+{
+    "question": "Who dated a guy named Fun Bobby?",
+    "options": [
+        "Rachel",
+        "Monica",
+        "Phoebe",
+        "Janice"
+    ],
+    "correctAnswer": "Monica"
+},
+{
+    "question": "What did Phoebe call her alter-ego to avoid paying?",
+    "options": [
+        "Regina Phalange",
+        "Phoebe Buffay Jr.",
+        "Sadie Malone",
+        "Emily Phalange"
+    ],
+    "correctAnswer": "Regina Phalange"
+},
+{
+    "question": "In “The One With The Rumor,” guest star Brad Pitt played?",
+    "options": [
+        "Will Colbert",
+        "Eric",
+        "Tom",
+        "Guy from high school"
+    ],
+    "correctAnswer": "Will Colbert"
+},
+{
+    "question": "Which cast member is the tallest?",
+    "options": [
+        "Ross (David Schwimmer)",
+        "Chandler (Matthew Perry)",
+        "Joey (Matt LeBlanc)",
+        "Monica (Courteney Cox)"
+    ],
+    "correctAnswer": "Ross (David Schwimmer)"
+},
+{
+    "question": "Who has a twin?",
+    "options": [
+        "Phoebe",
+        "Monica",
+        "Rachel",
+        "Janice"
+    ],
+    "correctAnswer": "Phoebe"
+}
+]

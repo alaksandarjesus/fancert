@@ -1,0 +1,237 @@
+ [
+    {
+      "question": "What is Sheldon Cooper’s catchphrase?",
+      "options": ["Bazinga!", "Soft kitty", "I win!", "Live long and prosper"],
+      "correctAnswer": "Bazinga!"
+    },
+    {
+      "question": "Where do Sheldon and Leonard work?",
+      "options": ["NASA", "MIT", "Caltech", "Harvard"],
+      "correctAnswer": "Caltech"
+    },
+    {
+      "question": "What is Howard Wolowitz’s profession?",
+      "options": ["Astrophysicist", "Aerospace Engineer", "Neuroscientist", "Paleontologist"],
+      "correctAnswer": "Aerospace Engineer"
+    },
+    {
+      "question": "Raj can’t speak to women unless he is…?",
+      "options": ["Angry", "Tired", "Drunk", "Hungry"],
+      "correctAnswer": "Drunk"
+    },
+    {
+      "question": "Which superhero does Sheldon dress up as?",
+      "options": ["Superman", "Batman", "The Flash", "Iron Man"],
+      "correctAnswer": "The Flash"
+    },
+    {
+      "question": "What board game do the guys often play?",
+      "options": ["Monopoly", "Risk", "Settlers of Catan", "Chess"],
+      "correctAnswer": "Settlers of Catan"
+    },
+    {
+      "question": "What is the name of Sheldon and Leonard’s apartment?",
+      "options": ["Room 2311", "Apartment 4A", "Suite 12", "Unit 5B"],
+      "correctAnswer": "Apartment 4A"
+    },
+    {
+      "question": "What is the theme song of the show?",
+      "options": ["She Blinded Me With Science", "The History of Everything", "Science Rules", "Bazinga Theme"],
+      "correctAnswer": "The History of Everything"
+    },
+    {
+      "question": "Who is Sheldon’s childhood hero, played by Bob Newhart?",
+      "options": ["Dr Proton", "Professor Proton", "Dr Einstein", "Professor Hawking"],
+      "correctAnswer": "Professor Proton"
+    },
+    {
+      "question": "How many episodes does the series have?",
+      "options": ["200", "279", "120", "350"],
+      "correctAnswer": "279"
+    },
+    {
+      "question": "What song does Penny sing to Sheldon when he’s sick?",
+      "options": ["Twinkle Twinkle", "Soft kitty", "Happy Birthday", "Rockabye Baby"],
+      "correctAnswer": "Soft kitty"
+    },
+    {
+      "question": "Mayim Bialik, who plays Amy, has a real‑life PhD in…?",
+      "options": ["Physics", "Psychology", "Neuroscience", "Biochemistry"],
+      "correctAnswer": "Neuroscience"
+    },
+    {
+      "question": "What is the name of Penny’s workplace?",
+      "options": ["The Cheesecake Factory", "Central Perk", "Big Bang Café", "Galaxy Grill"],
+      "correctAnswer": "The Cheesecake Factory"
+    },
+    {
+      "question": "What is Amy Farrah Fowler’s scientific specialty?",
+      "options": ["Astrophysics", "Neurobiology", "Microbiology", "Mathematics"],
+      "correctAnswer": "Neurobiology"
+    },
+    {
+      "question": "What is Sheldon's IQ?",
+      "options": ["160", "172", "187", "200"],
+      "correctAnswer": "187"
+    },
+    {
+      "question": "What pet did Sheldon have as a child?",
+      "options": ["Spot the dog", "Tweety the bird", "Hugsy the penguin", "Mr. Whiskers the cat"],
+      "correctAnswer": "Spot the dog"
+    },
+    {
+      "question": "What does Leonard’s middle name happen to be?",
+      "options": ["Leakey", "Edward", "Franklin", "Michael"],
+      "correctAnswer": "Leakey"
+    },
+    {
+      "question": "What is Stuart’s job?",
+      "options": ["Barista", "Comic‑book store owner", "Engineer", "Scientist"],
+      "correctAnswer": "Comic‑book store owner"
+    },
+    {
+      "question": "Who is Sheldon’s twin sister?",
+      "options": ["Missy", "Mary", "Amy", "Priya"],
+      "correctAnswer": "Missy"
+    },
+    {
+      "question": "What low‑budget horror movie did Penny appear in?",
+      "options": ["Serial Ape‑ist", "Zombie House", "Killer Garage", "Monster Camp"],
+      "correctAnswer": "Serial Ape‑ist"
+    },
+    {
+      "question": "What was the original working title of the show?",
+      "options": ["Lenny, Penny and Kenny", "Geek Life", "The Nerd Outs", "Physics Friends"],
+      "correctAnswer": "Lenny, Penny and Kenny"
+    },
+    {
+      "question": "Which sci‑fi show does Sheldon love?",
+      "options": ["Babylon 5", "Star Trek", "Dr Who", "Red Dwarf"],
+      "correctAnswer": "Star Trek"
+    },
+    {
+      "question": "Who guest‑starred as himself in multiple episodes?",
+      "options": ["Stephen Hawking", "Neil Armstrong", "Carl Sagan", "Buzz Aldrin"],
+      "correctAnswer": "Stephen Hawking"
+    },
+    {
+      "question": "Who is Bernadette’s husband?",
+      "options": ["Raj", "Howard", "Stuart", "Leonard"],
+      "correctAnswer": "Howard"
+    },
+    {
+      "question": "What is the breed of Raj’s dog?",
+      "options": ["Labrador", "Yorkshire Terrier", "Poodle", "Beagle"],
+      "correctAnswer": "Yorkshire Terrier"
+    },
+    {
+      "question": "What name did Raj give his apartment?",
+      "options": ["The Maharaja", "Raj Mahal", "Geek Palace", "Nerd Nest"],
+      "correctAnswer": "Raj Mahal"
+    },
+    {
+      "question": "What number is Amy’s apartment number, a nod to Pi?",
+      "options": ["314", "271", "2718", "141"],
+      "correctAnswer": "314"
+    },
+    {
+      "question": "What do Howard and Bernadette bond over first meeting?",
+      "options": ["Overbearing mothers", "Comic books", "Science jokes", "Astronomy"],
+      "correctAnswer": "Overbearing mothers"
+    },
+    {
+      "question": "Which actor played Raj Koothrappali?",
+      "options": ["Kunal Nayyar", "Simon Helberg", "Mayim Bialik", "Johnny Galecki"],
+      "correctAnswer": "Kunal Nayyar"
+    },
+    {
+      "question": "Which actress portrays Amy Farrah Fowler?",
+      "options": ["Kaley Cuoco", "Mayim Bialik", "Melissa Rauch", "Laura Spencer"],
+      "correctAnswer": "Mayim Bialik"
+    },
+    {
+      "question": "Sheldon insists on being sung ‘Soft Kitty’ when…",
+      "options": ["He’s bored", "He’s tired", "He’s sick", "He’s happy"],
+      "correctAnswer": "He’s sick"
+    },
+    {
+      "question": "What year did the show premiere on CBS?",
+      "options": ["2006", "2007", "2008", "2009"],
+      "correctAnswer": "2007"
+    },
+    {
+      "question": "Which scientist is consultant on the show’s whiteboard equations?",
+      "options": ["Neil deGrasse Tyson", "Brian Greene", "David Saltzberg", "Bill Nye"],
+      "correctAnswer": "David Saltzberg"
+    },
+    {
+      "question": "What explanation is given for the elevator being broken most of the series?",
+      "options": ["Budget cuts", "Plot device", "Safety issues", "Ghost haunting"],
+      "correctAnswer": "Plot device"
+    },
+    {
+      "question": "What song did Penny sing that became an iconic show moment?",
+      "options": ["Soft kitty", "Queen Penelope", "Let It Be", "Happy Together"],
+      "correctAnswer": "Soft kitty"
+    },
+    {
+      "question": "How long did The Big Bang Theory run?",
+      "options": ["10 seasons", "11 seasons", "12 seasons", "13 seasons"],
+      "correctAnswer": "12 seasons"
+    },
+    {
+      "question": "What is Howard’s middle name?",
+      "options": ["Joel", "Michael", "Joseph", "David"],
+      "correctAnswer": "Joel"
+    },
+    {
+      "question": "What is Leonard’s instrument?",
+      "options": ["Guitar", "Cello", "Piano", "Violin"],
+      "correctAnswer": "Cello"
+    },
+    {
+      "question": "Which character only appears in all but two episodes?",
+      "options": ["Penny", "Amy", "Bernadette", "Missy"],
+      "correctAnswer": "Penny"
+    },
+    {
+      "question": "Which real‑life band wrote the theme song?",
+      "options": ["Barenaked Ladies", "Coldplay", "The Beatles", "Queen"],
+      "correctAnswer": "Barenaked Ladies"
+    },
+    {
+      "question": "What show does Sheldon dislike but Leonard loves?",
+      "options": ["Dr Who", "Red Dwarf", "Battlestar Galactica", "Babylon 5"],
+      "correctAnswer": "Red Dwarf"
+    },
+    {
+      "question": "Which guest star moved Sheldon to tears by their cameo?",
+      "options": ["Steve Wozniak", "Bill Nye", "Stan Lee", "George Lucas"],
+      "correctAnswer": "Steve Wozniak"
+    },
+    {
+      "question": "During filming Sheldon’s birthday, who surprised him via video?",
+      "options": ["Neil deGrasse Tyson", "Stephen Hawking", "Adam West", "Bill Nye"],
+      "correctAnswer": "Stephen Hawking"
+    },
+    {
+      "question": "In total, how many awards did the show receive during its run?",
+      "options": ["45", "58", "100", "239"],
+      "correctAnswer": "58"
+    },
+    {
+      "question": "Jim Parsons has admitted he…?",
+      "options": ["Hates 'Bazinga!'", "Never laughs on set", "Frequently broke character laughing", "Sang theme song"],
+      "correctAnswer": "Frequently broke character laughing"
+    },
+    {
+      "question": "What game show did Penny’s ex‑boyfriend Kurt appear on?",
+      "options": ["The Bachelor", "Survivor", "Bamboozled", "The Price Is Right"],
+      "correctAnswer": "—"
+    },
+    {
+      "question": "Who created the show?",
+      "options": ["Chuck Lorre", "Bill Prady", "Steven Molaro", "Chuck Lorre & Bill Prady"],
+      "correctAnswer": "Chuck Lorre & Bill Prady"
+    }
+  ]
